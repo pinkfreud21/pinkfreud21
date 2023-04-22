@@ -1,6 +1,5 @@
 README
-# pinkfreud21
-# pinkfreud21
-# Tste de repositov 
-# oasdnoasnodasindnasidsad
-# aakbasbsdakassabkbdbk
+# Nome: Gabriel Reis Macedo
+# 20 anos
+# Estudande de Engenharia de Computação
+# UTFPR-AP
